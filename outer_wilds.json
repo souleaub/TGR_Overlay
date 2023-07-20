@@ -1,0 +1,15 @@
+{
+  "contact": "@ben.so On Discord",
+  "templates": [
+    {
+      "name": "OuterWilds",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131605223627034654/1131617367630295080/Sans_titre-1.png"
+      ],
+      "x": 566,
+      "y": 502
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
