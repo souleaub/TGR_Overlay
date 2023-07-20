@@ -1,0 +1,15 @@
+{
+  "contact": "@ben.so On Discord",
+  "templates": [
+    {
+      "name": "TheGreatReview",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1103133510300090429/1131603252186714182/tgr.png"
+      ],
+      "x": 867,
+      "y": 552
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
