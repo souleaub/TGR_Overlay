@@ -1,13 +1,13 @@
 {
-  "contact": "@ben.so or @turboturboturboturbo On Discord",
+  "contact": "@ben.so On Discord",
   "templates": [
     {
       "name": "TheGreatReview",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131615034288648213/1131623526915391598/tgr.png"
+        "https://cdn.discordapp.com/attachments/1103133510300090429/1131603252186714182/tgr.png"
       ],
-      "x": 110,
-      "y": 920
+      "x": 867,
+      "y": 552
     }
   ],
   "whitelist": [],
