@@ -1,5 +1,5 @@
 {
-  "contact": "@ben.so On Discord",
+  "contact": "@naiveaigal on Discord",
   "templates": [
     {
       "name": "OuterWilds",
@@ -8,6 +8,14 @@
       ],
       "x": 780,
       "y": 532
+    },
+    {
+      name: "OuterWildsSixthLocation",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131980930148466798/1131989559702458488/6location.jpg"
+      ],
+      "x": 1304,
+      "y": 173
     }
   ],
   "whitelist": [],
