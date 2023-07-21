@@ -1,0 +1,15 @@
+{
+  "contact": "@ben.so On Discord",
+  "templates": [
+    {
+      "name": "r/CanardCompetitif",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131237022347055134/1131907616344379462/canard_coin_coin.png"
+      ],
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
