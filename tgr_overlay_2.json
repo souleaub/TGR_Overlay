@@ -1,0 +1,15 @@
+{
+    "contact": "@turboturboturboturbo On Discord",
+    "templates": [
+      {
+        "name": "r/thegreatreview",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/879023870877761638/1133114941608562789/rtgr.png"
+        ],
+        "x": 2637,
+        "y": 995
+      }
+    ],
+    "whitelist": [],
+    "blacklist": []
+  }
