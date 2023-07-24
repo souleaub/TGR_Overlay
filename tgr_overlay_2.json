@@ -16,7 +16,15 @@
         ],
         "x": 2637,
         "y": 995
-      }
+      },
+      {
+      "name": "quantic moon",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/879023870877761638/1133143739892768908/moon.png"
+      ],
+      "x": 2637,
+      "y": 1011
+    }
     ],
     "whitelist": [],
     "blacklist": []
