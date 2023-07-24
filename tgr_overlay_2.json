@@ -8,6 +8,14 @@
         ],
         "x": 2637,
         "y": 995
+      },
+        {
+        "name": "eye of the universe",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/879023870877761638/1133118131582275746/oeil.png"
+        ],
+        "x": 2637,
+        "y": 995
       }
     ],
     "whitelist": [],
